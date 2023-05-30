@@ -11,7 +11,7 @@
 - Bounded contexts with subdomains – определение кограниченных контекстов и соотнесение их с бизнес-доменами
 - Event Storming – обновленный ES с новыми контекстами
 - Contexts with Relations – модель данных
-- Contexts and Services – модель разбиения контекстов по сервисам
+- Contexts with links – контексты со связями между собой
 - Implementation – реализация
 
 # Исправления в предыдущих разделах
@@ -39,6 +39,9 @@
 ## Contexts with Relations – модель данных
 - подправил модель данных в соответствии с новыми контекстами (тоже лучше скачать [файл](./3hw.drawio) и посмотреть полностью)
 
+## Contexts with links
+
+![](./images/contexts_with_relations.png)
 
 # Список стейкхолдеров
 
