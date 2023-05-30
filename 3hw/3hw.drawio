@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-05-30T21:46:49.834Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="EXtShld8u0F6Ixe3uKhJ" version="21.2.8" type="device" pages="10">
+<mxfile host="Electron" modified="2023-05-30T21:57:54.203Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="wKfoEQmAXmwOkhb0scfU" version="21.2.8" type="device" pages="9">
   <diagram id="JWJAVns4Dx3MJa-WMF6C" name="Stakeholders">
     <mxGraphModel dx="1026" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2183,29 +2183,6 @@
           <mxGeometry x="-0.0977" y="-49" relative="1" as="geometry">
             <mxPoint x="-89" y="15" as="offset" />
           </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="4XDQpdEGXrJKB_Qrst7I" name="Implementation">
-    <mxGraphModel dx="2255" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="J7TgQTRTDJtmrpyScttd-2" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-820" y="10" width="190" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="J7TgQTRTDJtmrpyScttd-1" value="" style="whiteSpace=wrap;html=1;" parent="J7TgQTRTDJtmrpyScttd-2" vertex="1">
-          <mxGeometry width="190" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="EjO2SR8kQ2fhgYD4SHVq-4" value="сервис для реализации" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" parent="J7TgQTRTDJtmrpyScttd-2" vertex="1">
-          <mxGeometry x="35" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EjO2SR8kQ2fhgYD4SHVq-5" value="внешняя система" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" parent="J7TgQTRTDJtmrpyScttd-2" vertex="1">
-          <mxGeometry x="35" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EjO2SR8kQ2fhgYD4SHVq-7" value="инфраструктура" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="J7TgQTRTDJtmrpyScttd-2" vertex="1">
-          <mxGeometry x="35" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
